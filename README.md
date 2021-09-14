@@ -1,2 +1,2 @@
 # rsschool-cv
-My CV for RSSCHOOl
+https://avvalax.github.io/rsschool-cv/cv
